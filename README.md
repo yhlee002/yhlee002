@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 코드의 모듈화, 재사용성을 지향합니다.
 - 생각치 못한 기획상의 문제에 대해 먼저 발견하고 이에 대한 해결방안을 제안합니다.
 - 보다 나은 서비스를 위해 아이디어를 제안하는 것을 꺼리지 않습니다.
+- 새로운 것을 공부하는 것에 관심이 많습니다.
 - 클라우드 기술에 대해 관심이 많습니다.
 
 ## 경력
@@ -32,7 +33,10 @@ Here are some ideas to get you started:
 - PRD(Program Relationship Diagram) 개발 : 각 서비스간 관련 데이터 맵핑 기능 개발
 - PMS 서비스 신규 개발
 
-## 
+## 자격증
+- 비전공자로서 최소한의 지식을 위해 정보처리기사 자격을 취득했습니다.
+- 클라우드 환경에의 개발에 관심이 많아 AWS Certified Cloud Practitioner 자격을 취득했습니다.
+- 이후 AWS Certified Developer - Associate 자격증 취득을 목표로 하고있습니다.
 
 ## Frontend Stack
 
