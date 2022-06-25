@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### HaebomTech 😄
 업무 : 자사 서비스 개선 및 새로운 서비스 개발(2021.06.07 ~ )
 - AngularJS와 Spring Famework를 기반으로 한 SPA 애플리케이션 개발 담당
-- 문서 생성 자동화 기능 개발
+- LCDP 서비스의 문서 생성 자동화 기능 개발 및 쿼리 생성 자동화 기능 개발
 - PRD(Program Relationship Diagram) 개발 : 각 서비스간 관련 데이터 맵핑 기능 개발
 - PMS 서비스 신규 개발
 
