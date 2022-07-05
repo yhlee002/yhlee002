@@ -27,14 +27,17 @@ Here are some ideas to get you started:
 
 ## 경력
 ### HaebomTech 😄
-업무 : 자사 서비스 개선 및 새로운 서비스 개발(2021.06.07 ~ )
+업무 : 기존의 자사 서비스 개선 및 신규 서비스 개발(2021.06.07 ~ )
+
 - AngularJS와 Spring Famework를 기반으로 한 SPA 애플리케이션 개발 담당
-- LCDP 서비스의 문서 생성 자동화 기능 개발 및 쿼리 생성 자동화 기능 개발
-- PRD(Program Relationship Diagram) 개발 : 각 서비스간 관련 데이터 맵핑 기능 개발
+- LCDP 서비스의 컴포넌트 생성 및 액션 생성 기능 개발
+- 문서 생성 자동화 기능 개발 및 룰 생성 자동화 기능 개발
+- DB 조회 및 조작 서비스 기능 재개발
+- PRD(Program Relationship Diagram, 각 서비스간 관련 데이터 맵핑 기능) 기능 개발
 - PMS 서비스 신규 개발
 
 ## 자격증
-- 비전공자로서 최소한의 지식을 위해 정보처리기사 자격을 취득했습니다.
+- 기본적인 CS 지식을 위해 정보처리기사 자격을 취득했습니다.
 - 클라우드 환경에의 개발에 관심이 많아 AWS Certified Cloud Practitioner 자격을 취득했습니다.
 - 이후 AWS Certified Developer - Associate 자격증 취득을 목표로 하고있습니다.
 
