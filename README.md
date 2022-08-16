@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 클라우드 기술에 대해 관심이 많습니다.
 
 ## 경력
-### HaebomTech 😄
+### BecomeUniverse(HaebomTech) 😄
 업무 : 기존의 자사 서비스 개선 및 신규 서비스 개발(2021.06.07 ~ )
 
 - AngularJS와 Spring Famework를 기반으로 한 SPA 애플리케이션 개발 담당
