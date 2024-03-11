@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 
 ## Frontend Stack
 
-<img src="https://img.shields.io/badge/#4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img alt="AngularJS" src ="https://img.shields.io/badge/AngularJS-E23237.svg?&style=flat-square&logo=AngularJS&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> 
+<img alt="Vue.js" src="https://img.shields.io/badge/vue.js-#4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img alt="AngularJS" src ="https://img.shields.io/badge/AngularJS-E23237.svg?&style=flat-square&logo=AngularJS&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> 
 
 ## Backend Stack
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
 
 ## Infra
-<img src="https://img.shields.io/badge/#326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-#326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhlee002)](https://github.com/anuraghazra/github-readme-stats)
