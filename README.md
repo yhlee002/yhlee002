@@ -40,15 +40,18 @@ Here are some ideas to get you started:
 - 클라우드 환경에의 개발에 관심이 많아 AWS Certified Cloud Practitioner 자격을 취득했습니다.
 - 이후 AWS Certified Developer - Associate 자격증, K8s Certified Kubernetes Administrator 취득을 목표로 하고있습니다.
 
-## Frontend Stack
+## 기술 스택
+### Frontend Stack
 
-<img alt="Vue.js" src="https://img.shields.io/badge/vue.js-#4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img alt="AngularJS" src ="https://img.shields.io/badge/AngularJS-E23237.svg?&style=flat-square&logo=AngularJS&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> 
+<img alt="Vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> <img alt="Angularjs" src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/> <img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-## Backend Stack
+### Backend Stack
 
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white"> <img alt="Spring" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-## Infra
-<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-#326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+### Infra
+<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhlee002)](https://github.com/anuraghazra/github-readme-stats)
+-->
