@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 대량의 데이터를 이용한 문서 생성 자동화 기능 개발
 - DB 조회 및 조작 서비스 기능 재개발
 - PRD(Program Relationship Diagram, 각 서비스간 관련 데이터 맵핑 기능) 기능 개발
-- PMS 서비스 신규 개발
+- PMS(Project Management System) 서비스 개발
 
 ## 자격증
 - 기본적인 CS 지식을 위해 정보처리기사 자격을 취득했습니다.
