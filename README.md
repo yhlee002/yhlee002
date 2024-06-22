@@ -27,13 +27,11 @@ Here are some ideas to get you started:
 ## 경력
 ### BecomeUniverse(2021.06 ~ 2023.11) 😄
 업무 : 기존의 자사 서비스 개선 및 신규 서비스 개발
-- 모던 프레임워크(Vue)를 기반으로 한 SPA 애플리케이션 개발 담당
-- 주요 서비스 API 개발 및 화면 개발
-- LCDP 서비스의 컴포넌트 생성 및 액션 생성 기능 개발
-- 대량의 데이터를 이용한 문서 생성 자동화 기능 개발
-- DB 조회 및 조작 서비스 기능 재개발
-- PRD(Program Relationship Diagram, 각 서비스간 관련 데이터 맵핑 기능) 기능 개발
-- PMS(Project Management System) 서비스 개발
+- DB Schema 관리 서비스 개발 담당
+- 주요 서비스 API 개발 및 화면 개발
+- 개발명세서 등의 문서 생성 기능 개발
+- 서비스간 관련 데이터 맵핑 기능 개발
+- 모던프레임워크(Vue.js)를 이용한 SPA 애플리케이션 개발
 
 ## 자격증
 - 기본적인 CS 지식을 위해 정보처리기사 자격을 취득했습니다.
@@ -41,15 +39,21 @@ Here are some ideas to get you started:
 - 이후 AWS Certified Developer - Associate 자격증, K8s Certified Kubernetes Administrator 취득을 목표로 하고있습니다.
 
 ## 기술 스택
-### Frontend Stack
+### Frontend
 
 <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> <img alt="Angularjs" src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/> <img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### Backend Stack
+### Backend
 
 <img alt="Java" src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white"> <img alt="Spring" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-### Infra
+### Dep Ops
+
+<img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Amazon EC2" src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img alt="Amazon RDS" src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img alt="Amazon S3" src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 <!--
