@@ -1,20 +1,5 @@
 # Hi there. I'm Younghyun 👋 
-email : xxxoxxo002@gmail.com / dldudgus214@naver.com
-
-<!--
-**yhlee002/yhlee002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+email : dldudgus214@naver.com
 
 ## Profile
 - 간결하고 가독성이 좋은 코드를 작성하기를 선호해요.
@@ -25,8 +10,14 @@ Here are some ideas to get you started:
 - 새로운 것을 공부하는 것에 관심이 많아요.
 
 ## 경력
-### BecomeUniverse(2021.06 ~ 2023.11) 😄
-업무 : 기존의 자사 서비스 개선 및 신규 서비스 개발
+### Speclipse(2024.09 ~ )
+업무 : 백오피스 개발 및 자사 서비스 개선
+백오피스 프론트엔드(Vue.js) 1인 개발
+캔버스를 이용한 비즈니스 로직 개발
+기능 분석 및 Jira Confluence 개발자 가이드 문서 작성
+
+### BecomeUniverse(2021.06 ~ 2023.11)
+업무 : 자사 서비스 개선 및 신규 서비스 개발
 - DB Schema 관리 서비스 개발 담당
 - 주요 서비스 API 개발 및 화면 개발
 - 개발명세서 등의 문서 생성 기능 개발
